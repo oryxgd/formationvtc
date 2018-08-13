@@ -1,3 +1,8 @@
+---
+layout: default
+title: a title
+description: a description
+---
 ## Trouvez la meilleure formation pour devenir chauffeur VTC agree
 Vous souhaitez devenir un chauffeur qualifié à bord de véhicules prestigieux, ouvrir un centre d’exploitation de VTC, rejoindre une société de VTC dynamique dans votre région ?
 Rejoignez notre prestigieuse académie de formation pour devenir chauffeur de maître, chauffeur de limousine, chauffeur VTC, chauffeur VIP ou chauffeur d’autorité.
