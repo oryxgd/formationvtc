@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+name: Formation VTC 
+plugins:
+  - jekyll-seo-tag
+title: Formation VTC - comment se preparer à l’examen et les centres près de chez vous
